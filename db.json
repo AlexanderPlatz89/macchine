@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "operatori": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Alessandro"
+    },
+    {
+      "id": 2,
+      "name": "Echego"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
