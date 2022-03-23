@@ -1,12 +1,4 @@
 {
-  "operatori": [
-    {
-      "id": 1,
-      "name": "Alessandro"
-    },
-    {
-      "id": 2,
-      "name": "Echego"
-    }
-  ],
+  "id": 1,
+  "title": "hello"
 }
