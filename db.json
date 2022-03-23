@@ -1,12 +1,7 @@
 {
-  "t5": [
-    {
+  "t5":{
       "macchina": "T5",
       "velocitaTeorica": 350,
       "velocitAttuale":250
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
