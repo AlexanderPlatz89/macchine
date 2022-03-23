@@ -1,5 +1,32 @@
 {
   "t5":{
-    "velocità":250
-  }
+          macchina:"T5",
+          stato:"InProduzione",
+          commessa: {
+              papellaN:189221,
+              titolo:"Mon Anne De Philo. Bac. TERMINALE",
+              segnatura:"2/5",
+              tiratura:2500,
+              CNC:"C",
+            },
+          velocitaTeorica: 200,
+          velocitaAttuale: 100,
+          tipologia: 1,
+          lavorazione:{
+            quantita: 2,
+            produzioni: [
+              {quantita: 1}
+            ],
+            rigaCommessa: {
+              commessa:{
+                codice:"12345"
+              },
+              prodotto:{
+                prodotto:{
+                  codice: "PR123K22"
+                }
+              }
+            },
+          }
+        },
 }
