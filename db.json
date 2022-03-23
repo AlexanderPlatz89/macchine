@@ -1,5 +1,11 @@
 {
-  "t5":{
-    "macchina":"T5"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
