@@ -2,25 +2,25 @@
   "t4":{
       "macchina": "T4",
       "velocitaTeorica": 350,
-      "velocitAttuale":250,
+      "velocitaAttuale":250,
       "stato":"InProduzione"
     },
   "t5":{
       "macchina": "T5",
       "velocitaTeorica": 350,
-      "velocitAttuale":250,
+      "velocitaAttuale":250,
       "stato":"InProduzione"
     },
   "t6":{
       "macchina": "T6",
       "velocitaTeorica": 350,
-      "velocitAttuale":250,
+      "velocitaAttuale":250,
       "stato":"Manutenzione"
     },
   "t7":{
       "macchina": "T7",
       "velocitaTeorica": 350,
-      "velocitAttuale":250,
+      "velocitaAttuale":250,
       "stato":"Ferma"
     }
 }
